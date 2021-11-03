@@ -1,0 +1,12 @@
+{"version": 2, "width": 72, "height": 21, "timestamp": 1635956867, "env": {"SHELL": "/bin/bash", "TERM": "alacritty"}}
+[0.012749, "o", "\u001b[?2004h[nikos@arch ~]$ "]
+[0.362143, "o", "l"]
+[0.474632, "o", "s"]
+[0.657576, "o", " "]
+[0.883128, "o", "-"]
+[1.011273, "o", "a"]
+[1.294503, "o", "\r\n\u001b[?2004l\r"]
+[1.297501, "o", "\u001b[0m\u001b[01;34m.\u001b[0m              .lesshst                  \u001b[01;34m.sqldeveloper\u001b[0m\r\n\u001b[01;34m..\u001b[0m             \u001b[01;34m.local\u001b[0m                    \u001b[01;34m.steam\u001b[0m\r\n.alacritt.yml  \u001b[01;34m.mozilla\u001b[0m                  \u001b[01;36m.steampath\u001b[0m\r\n.bash_history  \u001b[01;34mMusic\u001b[0m                     \u001b[01;36m.steampid\u001b[0m\r\n.bash_logout   \u001b[01;34mnetworkmanager-dmenu-git\u001b[0m  \u001b[01;34m.swt\u001b[0m\r\n.bash_profile  \u001b[01;34mno-more-secrets\u001b[0m           \u001b[01;34mTemplates\u001b[0m\r\n.bashrc        \u001b[01;34m.npm\u001b[0m                      test\r\n\u001b[01;34mbin\u001b[0m            \u001b[01;34m.openjfx\u001b[0m                  \u001b[01;34m.thunderbird\u001b[0m\r\n\u001b[01;34m.cache\u001b[0m         \u001b[01;34m.openoffice\u001b[0m               \u001b[01;34mthunderbird\u001b[0m\r\n\u001b[01;34m.config\u001b[0m        \u001b[01;34mopenoffice-bin\u001b[0m            \u001b[01;34m.var\u001b[0m\r\nconfig         \u001b[01;34mowasp-threat-dragon\u001b[0m       \u001b[01;34mVideos\u001b[0m\r\n\u001b[01;34mDesktop\u001b[0m        \u001b[34;42mpackages\u001b[0m                  \u001b[01;34m.vscode-oss\u001b[0m\r\n\u001b[01;34mDocuments\u001b[0m      \u001b[01;34mPictures\u001b[0m                  .Xau"]
+[1.297919, "o", "thority\r\n\u001b[01;34mDownloads\u001b[0m      \u001b[01;34m.pki\u001b[0m                      .xinitrc\r\n.fonts.conf    \u001b[01;34mpolybar\u001b[0m                   \u001b[01;34mxpad-dkms-git\u001b[0m\r\n.gitconfig     \u001b[01;34mPublic\u001b[0m                    \u001b[01;34mxpadneo\u001b[0m\r\n\u001b[01;34mgrub2-themes\u001b[0m   .pulse-cookie             \u001b[01;34m.zoom\u001b[0m\r\n.gtkrc-2.0     .python_history           \u001b[01;34mzoom_x86_64.pkg\u001b[0m\r\n\u001b[01;34m.java\u001b[0m          .recently-used\r\n\u001b[01;34m.kde4\u001b[0m          \u001b[01;34msnapd\u001b[0m\r\n"]
+[1.29809, "o", "\u001b[?2004h[nikos@arch ~]$ "]
+[2.270156, "o", "\u001b[?2004l\r\r\nexit\r\n"]
